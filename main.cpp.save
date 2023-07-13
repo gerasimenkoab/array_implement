@@ -1,0 +1,22 @@
+/* Implementation of Array class.
+   Class driver file. */
+
+#include <iostream>
+using namespace std;
+
+#include "Array.h"
+
+
+int main()
+{
+    Array first(5), sec(5),trd(5);
+    first.printArray();
+    cin >> first >> sec;
+    first.printArray();
+    sec.printArray();
+    trd=first+sec
+    cout << first << sec;
+    cout << "Hello world!" << endl;
+
+    return 0;
+}

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1378913991 source:/home/alexander/Documents/cpp_progs/array_implement/main.cpp
+	<iostream>
+	"Array.h"
+
+1378914239 /home/alexander/Documents/cpp_progs/array_implement/include/Array.h
+	<iostream>
+
+1378913844 source:/home/alexander/Documents/cpp_progs/array_implement/src/Array.cpp
+	<iostream>
+	<cstdlib>
+	"Array.h"
+
